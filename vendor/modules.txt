@@ -15,7 +15,7 @@ github.com/golang/protobuf/ptypes/duration
 github.com/golang/protobuf/ptypes/timestamp
 # github.com/satori/go.uuid v1.2.0
 github.com/satori/go.uuid
-# github.com/vishvananda/netlink v1.0.0
+# github.com/vishvananda/netlink v1.0.1-0.20191113183427-d71301a47b60
 github.com/vishvananda/netlink
 github.com/vishvananda/netlink/nl
 # github.com/vishvananda/netns v0.0.0-20191106174202-0a2b9b5464df
@@ -29,7 +29,7 @@ golang.org/x/net/http2/hpack
 golang.org/x/net/idna
 golang.org/x/net/lex/httplex
 golang.org/x/net/internal/timeseries
-# golang.org/x/sys v0.0.0-20180406135729-3b87a42e500a
+# golang.org/x/sys v0.0.0-20190606203320-7fc4e5ec1444
 golang.org/x/sys/unix
 # golang.org/x/text v0.3.0
 golang.org/x/text/secure/bidirule
